@@ -30,6 +30,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=default&hide_border=true&cache_seconds=86400">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400">
+</picture>
+
+---
+
 <div align="center">
 
 [![Em formação](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
