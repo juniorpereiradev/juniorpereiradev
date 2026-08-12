@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Junior 👋
 
-<!--
-**juniorpereiradev/juniorpereiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na ETEP
+💻 Desenvolvedor iniciante, aprendendo na prática
+📍 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- Estou construindo minha base em lógica de programação e estruturas de dados
+- Atualmente estudando **Python** (estruturas de decisão e repetição)
+- Também tenho contato com **Java** através de projetos da faculdade
+- Buscando minha primeira oportunidade como desenvolvedor
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 📌 Projetos em destaque
+
+- [estudos-python-exercicios](https://github.com/juniorpereiradev/estudos-python-exercicios) — Exercícios de Python organizados por nível de aprendizado
+- [Projetos-estudos-ADS](https://github.com/juniorpereiradev/Projetos-estudos-ADS) — Projetos desenvolvidos durante a faculdade
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aelson-junior)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=dark&hide_border=true)  
