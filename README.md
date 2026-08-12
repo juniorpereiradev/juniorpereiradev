@@ -28,6 +28,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aelson-junior)
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=dark&hide_border=true)  
