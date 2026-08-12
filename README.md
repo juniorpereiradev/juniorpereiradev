@@ -17,6 +17,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### 📌 Projetos em destaque
@@ -30,15 +31,24 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=dark&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=default&hide_border=true&cache_seconds=86400">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=juniorpereiradev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400">
+</picture>
 
 ---
 
 <div align="center">
 
-[![Formação](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Em formação](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 **Análise e Desenvolvimento de Sistemas** — ETEP
-`Em andamento`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/progress-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/progress-light.svg">
+  <img alt="Progresso da formação" src="assets/progress-dark.svg">
+</picture>
 
 </div>
